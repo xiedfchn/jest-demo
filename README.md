@@ -11,4 +11,4 @@ Jest makes testing delightful.
 # Advantages
 
 - Snapshot testing
-  Snapshot testing makes tests which keep track of large objects with ease. 
+Snapshot testing makes tests which keep track of large objects with ease. 
