@@ -7,3 +7,8 @@ Jest is well-documented, requires little configuration and can be extended to ma
 
 Jest makes testing delightful.
 
+
+# Advantages
+
+- Snapshot testing
+  Snapshot testing makes tests which keep track of large objects with ease. 
