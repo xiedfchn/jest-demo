@@ -12,3 +12,5 @@ Jest makes testing delightful.
 
 - Snapshot testing makes tests which keep track of large objects with ease.
 Snapshot testing is a feature of Jest that automatically generates text snapshots of your components and saves them on the disk so if the UI output changes, you get notified without manually writing any assertions on the component output
+
+- Test cases are isolated. Tests are parallelized by running them in their own processes to maximize performance.
